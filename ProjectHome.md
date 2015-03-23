@@ -1,0 +1,1 @@
+A social library browser based on augmented reality targeting android devices. It displays library items according to their positions on the live camera view offering a navigation system. It also allows interactivity with theses library items viewing its detailed information such as reviews and feedback offering a social networking.
